@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Interface1/Interface1.csproj" />
+  <Project Path="Interface2/Interface2.csproj" />
+</Solution>

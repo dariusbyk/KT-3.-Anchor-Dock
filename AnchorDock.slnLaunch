@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Interface1\\Interface1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Interface2\\Interface2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
